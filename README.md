@@ -3,7 +3,7 @@ I'm Gopi Chand Kuruva, a Computer Science student at NxtWave Institute of Advanc
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gopi-chand-kuruva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopi-chand-kuruva
 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gopichand55k) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopichand55k@gmail.com) 
 
 # 💻 Tech Stack:
